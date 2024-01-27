@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex_learn{
+    border: 3px solid blue;
+    height: 500px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    overflow: auto;
+   
+    
+
+}
+.inner_container{
+    height: 50%;
+    width: 50px;
+    background-image: linear-gradient(blue,red);
+    border: 2px solid green;
+    
+    flex: 200vh;
+    
+}
