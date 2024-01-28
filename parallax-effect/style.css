@@ -43,9 +43,9 @@ h1{
     position: absolute;
     color: white;
     top: 5rem;    
-    letter-spacing: 20px;
+    letter-spacing: 0.3rem;
     font-size: 10rem;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.589);
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.589);
 }
 
 section{
